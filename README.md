@@ -29,6 +29,8 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+---                                                                                                               
                                                                                                                
 <p align="center">
   🎓 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.
@@ -44,6 +46,8 @@
                                                                                                                
 ## Contact :iphone:
 
+                                                                    
+                                                                   
 <p align="center">
     <a href="https://github.com/rodrigomathes/">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/sarafelix25">
