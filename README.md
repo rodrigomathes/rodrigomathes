@@ -35,7 +35,7 @@
   <br>
   👩🏻‍💻 Customer Experience - <a href="https://actionline.com.br/"><b>Actionline</b></a>.
   <br>
-  💻 19 anos, intusiasta de tecnologia 💻 e louco por viagens ✈️
+  💻 19 anos, amante de videogames 🎮, facinado por tecnologia 💻 e louco por viagens ✈
   <br>
   </em>
 </p>                                                                                                            
