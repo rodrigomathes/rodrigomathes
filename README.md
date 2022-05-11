@@ -33,7 +33,8 @@
 ---                                                                                                               
                                                                                                                
 <p align="center">
-  <br> Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação<a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.</br>
+  <br>
+  <a>👨‍🎓 Estudante de Ciência e Tecnologia com ênfase em Ciência da Computação</a> - <a href="https://www.ufabc.edu.br/"><b>UFABC</b></a>.</br>
   👩🏻‍💻 Customer Experience - <a href="https://actionline.com.br/"><b>Actionline</b></a>.
   <br>
   💻 19 anos, amante de videogames 🎮, facinado por tecnologia 💻 e louco por viagens ✈
